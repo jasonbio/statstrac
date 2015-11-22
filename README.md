@@ -1,8 +1,8 @@
 # statstrac - open NFL statistics platform
 
-statstrac visualizes, compares and manipulates raw NFL statistics from [nfldb](https://github.com/BurntSushi/nfldb) in the hopes of creating a flexible, easy to use web-based tool for research, projections and fun. http://statstrac.com/
+**_statstrac is still very much in beta and not all views/pages are working yet_**
 
-**_statstrac is still very much in beta and not all views/pages/stats are working yet._**
+statstrac visualizes, compares and manipulates raw NFL statistics from [nfldb](https://github.com/BurntSushi/nfldb) in the hopes of creating a flexible, easy to use web-based tool for research, projections and fun. http://statstrac.com/
 
 **Concept**
 
