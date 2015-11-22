@@ -2,9 +2,11 @@
 
 statstrac visualizes, compares and manipulates raw NFL statistics from [nfldb](https://github.com/BurntSushi/nfldb) in the hopes of creating a flexible, easy to use web-based tool for research, projections and fun. http://statstrac.com/
 
+statstrac is still very much in beta and not all views/pages/stats are working yet.
+
 **Concept**
 
-Using [PostgREST](https://github.com/begriffs/postgrest) to expose RESTful access to [nfldb](https://github.com/BurntSushi/nfldb) yields an extremely flexible dataset to have fun with. statstrac requests data from nfldb through [PostgREST](https://github.com/begriffs/postgrest) and then visualizes the results using Bootstrap, jQuery, and other front-end tools. statstrac also caches data for performance improvements by identifying static routes that are not likely to change for long periods of time (past seasons, inactive players, etc). statstrac runs [PostgREST](https://github.com/begriffs/postgrest) locally, like an internal API.
+Using [PostgREST](https://github.com/begriffs/postgrest) to expose RESTful access to [nfldb](https://github.com/BurntSushi/nfldb) yields an extremely flexible dataset to have fun with. statstrac requests data from [nfldb](https://github.com/BurntSushi/nfldb) through [PostgREST](https://github.com/begriffs/postgrest) and then visualizes the results using Bootstrap, jQuery, and other front-end tools. statstrac also caches data for performance improvements by identifying static routes that are not likely to change for long periods of time (past seasons, inactive players, etc). statstrac runs [PostgREST](https://github.com/begriffs/postgrest) locally, like an internal API.
 
 **Requirements**
 
