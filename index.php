@@ -2,7 +2,6 @@
 
 /**
  * statstrac - open NFL statistics platform
- *
  */
 
 define('DS', DIRECTORY_SEPARATOR);
