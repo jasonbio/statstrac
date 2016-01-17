@@ -1,4 +1,4 @@
-# statstrac - open NFL statistics platform
+# statstrac - open source NFL statistics platform
 
 **_statstrac is still very much in beta and not all views/pages are working yet_**
 
